@@ -1,5 +1,4 @@
 [![MasterHead](https://github.com/Santi-Machin/Santi-Machin/blob/main/header.png?raw=true)](https://github.com/Santi-Machin)
-* I am a high school student who likes to program, currently I have advanced knowledge in Python, C++ and I am gaining experience in Android development.
 
 <h1 align="center">My stats 📊</h1>
 
